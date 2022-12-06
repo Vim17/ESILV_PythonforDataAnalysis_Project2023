@@ -85,7 +85,7 @@ Here we can observe the 17 variables present in our dataset. We will now explain
   - The confusion matrix: It will not only highlight the correct and incorrect predictions but will also give us a clue about the type of errors made.  
   - The classification report: It is used to measure the quality of predictions from a classification algorithm.    
   - The accuracy : Model accuracy, the most important general indicator  
-- Third, we apply this evaluation to our data set, with all the following classifiers:: 'KNN','SVC', 'DECISION TREE', 'RANDOM FOREST', 'ADA BOOST', 'GRADIENT BOOSTING', 'SGD'
+- Third, we apply this evaluation to our data set, with all the following classifiers:: 'KNN','SVC', 'DECISION TREE', 'RANDOM FOREST', 'ADA BOOST', 'GRADIENT BOOSTING', 'SGD', 'XBOOST'
 - We have thus obtained our results for each model. In order to make it more visual, we draw 2 graphs to allow to understand and observe an overview of our results, so please check them.   
 
 ## 4.2) Modeling trials, optimization and to go further
